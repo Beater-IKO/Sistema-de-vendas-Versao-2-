@@ -5,6 +5,7 @@ Este repositório contém um programa de gerenciamento de vendas desenvolvido em
 
 
 Funcionalidades
+
 Menu Principal: Tem um menu com as sessões, incluindo materiais de limpeza, alimentos, padaria, e opções de pagamento.
 Gerenciamento de Itens: Adicione itens às compras e acompanhe o total gasto em cada categoria.
 Cálculo de Descontos: Aplica descontos com base no valor total da compra e forma de pagamento.
@@ -13,6 +14,7 @@ Abertura de Caixa: Configure o valor inicial do caixa.
 
 
 Estrutura do Código
+
 Menu Principal: Exibe opções e navega entre diferentes sesões.
 Gerenciamento de Categorias: Funções separadas para materiais de limpeza, alimentos e padaria.
 Pagamentos: Calcula o total, aplica descontos e processa pagamentos em dinheiro ou cartão.
@@ -20,4 +22,5 @@ Fechamento e Abertura de Caixa: Gera relatórios de faturamento e configura o va
 
 
 Status do Projeto
+
 Este é um projeto em evolução com a intenção de melhorar continuamente o código e adicionar novas funcionalidades. A versão atual inclui várias funcionalidades básicas, mas ainda pode conter erros e áreas a serem aprimoradas
