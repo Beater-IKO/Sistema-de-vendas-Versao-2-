@@ -5,7 +5,7 @@ Este repositório contém um programa de gerenciamento de vendas desenvolvido em
 
 
 Funcionalidades
-Menu Principal:Tem um menu com as sessões, incluindo materiais de limpeza, alimentos, padaria, e opções de pagamento.
+Menu Principal: Tem um menu com as sessões, incluindo materiais de limpeza, alimentos, padaria, e opções de pagamento.
 Gerenciamento de Itens: Adicione itens às compras e acompanhe o total gasto em cada categoria.
 Cálculo de Descontos: Aplica descontos com base no valor total da compra e forma de pagamento.
 Fechamento de Caixa: Gere relatórios de faturamento por categoria e totalize o faturamento do dia.
