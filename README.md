@@ -19,7 +19,7 @@ Abertura de Caixa: Configure o valor inicial do caixa.
 
 Estrutura do Código
 
-Menu Principal: Exibe opções e navega entre diferentes seções.
+Menu Principal: Exibe opções e navega entre diferentes sesões.
 
 Gerenciamento de Categorias: Funções separadas para materiais de limpeza, alimentos e padaria.
 
